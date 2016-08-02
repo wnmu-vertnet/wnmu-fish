@@ -1,0 +1,46 @@
+Report for Institution Code WNMU, Resource wnmu_fish
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 227
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-28 ; Times: 1
+	Date: 2016-07-29 ; Times: 7
+	Date: 2016-07-22 ; Times: 1
+	Date: 2016-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 1
+	Query: "gbifdatasetid:0b1be9d9-3825-4306-adf0-60551ee0dd31" ; Times: 2
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 2
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 1
+	Query: "gila robusta year &gt;= 1990 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1219 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pimephales promelas" ; Times: 1
+
+
+End of report.
