@@ -1,0 +1,42 @@
+Report for Institution Code WNMU, Resource wnmu_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 277
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-19 ; Times: 4
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-20 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 3
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 24
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 3
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "gbifdatasetid:0b1be9d9-3825-4306-adf0-60551ee0dd31" ; Times: 1
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 924 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
