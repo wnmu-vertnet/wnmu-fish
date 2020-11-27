@@ -1,0 +1,34 @@
+Report for Institution Code WNMU, Resource wnmu_fish
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 18
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Gila pandora" ; Times: 7
+	Query: "Gila nigrescens" ; Times: 7
+	Query: "Gila robusta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1171 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
