@@ -1,0 +1,33 @@
+Report for Institution Code WNMU, Resource wnmu_fish
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 0
+Number of records retrieved in searches: 0
+Number of different countries where searches have been originated: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1106 download events in this period)
+Total number of records downloaded: 98
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Catostomus" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+
+
+End of report.
